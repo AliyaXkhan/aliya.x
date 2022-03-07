@@ -123,7 +123,7 @@ def main():
     print '\x1b[1;93m[4] \x1b[1;92mVisit My YouTube Channel'
     print '\x1b[1;93m[0] \x1b[1;92mExit'
     print 47 * '\x1b[1;93m\xe2\x96\xac'
-    os.system(''os.system('xdg-open https://www.facebook.com/AliyakhanYosafzia'))
+    os.system(''os.system('xdg-open https://www.facebook.com/AliyakhanYosafzia')
     main_select()
 
 
